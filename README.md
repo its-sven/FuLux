@@ -1,2 +1,4 @@
 # FuLux
-Fuel Luxembourg Aral
+Fuel prices at Luxembourg Aral 
+
+**Fu**el **Lux**embourg
